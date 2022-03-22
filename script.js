@@ -1,4 +1,4 @@
-let startQuiz = document.getElementsByClassName("startbutton");
+let startQuiz = document.getElementById("#startbutton");
 
 startQuiz.addEventListener("click", function () {
   gameStart();
