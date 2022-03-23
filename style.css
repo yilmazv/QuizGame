@@ -50,8 +50,8 @@ body {
   background-color: brown;
 }
 .questions {
-  margin-top: 30px;
-  margin-left: 50px;
+  margin-left: 800px;
+  font-size: 25px;
 }
 .hide {
   display: none;
